@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sszabo11
-- 👀 I’m interested in Javascript, HTML, CSS, React, MERN Stack
-- 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on making websites for people
+- 👀 I’m interested in Javascript, HTML, CSS, React, NextJS, Machine learning, ai
+- 🌱 I’m currently learning fullstack development and machine learning
+- 💞️ I’m looking to collaborate on making websites for people and create startups
 - 📫 How to reach me  :    clients.sszabo@gmail.com
 
 <!---
