@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sszabo11
-- 👀 I’m interested in Javascript, HTML, CSS, React, NextJS, Machine learning, ai
-- 🌱 I’m currently learning fullstack development and machine learning
-- 💞️ I’m looking to collaborate on making websites for people and create startups
-- 📫 How to reach me  :    clients.sszabo@gmail.com
+- 👀 I’m interested in tech and and rabbits 🐇🧷
+- 🌱 I’m currently learning stuff to make websites, web3, machine leaarning, ai and some other stuff 😉😎
+- 💞️ I’m looking to collaborate with other people. ( Please contact me for collabration with me 😁)
+- 📫 How to reach me  :    this.is.my.contact.email.for.github@gmail.com https://twitter.com/SimonSzabo3
 
 <!---
 sszabo11/sszabo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
